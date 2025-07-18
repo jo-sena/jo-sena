@@ -1,0 +1,9 @@
+{
+  "name": "Névoa IA",
+  "short_name": "Névoa",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#1E293B",
+  "theme_color": "#6366F1",
+  "icons": []
+}
