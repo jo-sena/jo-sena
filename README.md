@@ -138,6 +138,12 @@
         <a href="#checkout" class="btn">Invista Agora</a>
     </section>
 
+    <!-- Notepad Section -->
+    <section class="cta">
+        <h2>Precisa fazer anotações?</h2>
+        <p>Acesse o <a href="notepad.html">Bloco de Notas</a> e registre suas ideias.</p>
+    </section>
+
     <!-- Footer -->
     <footer>
         <p>&copy; 2025 CriptoInvestimentos. Todos os direitos reservados.</p>
